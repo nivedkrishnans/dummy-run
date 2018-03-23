@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-html{
+body{
     background-image: url(coming_soon_background_portrait.svg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -81,10 +81,6 @@ html{
 
 html{
     background-image: url(coming_soon_background.svg);
-        /*
-    min-height: 480px;
-    min-width: 800px;
-    */
 }
 
 
@@ -92,10 +88,6 @@ html{
 #logo{
     width: 23vh;
     height: 36vh;
-    /*
-    min-height: 200px;
-    min-width: 126px;
-    */
 }
 
 
@@ -104,9 +96,6 @@ html{
     text-align: center;
     font-size: 3vh;
     width: 70%;
-    /*
-    min-width: 400px;
-    */
     
 }
 
